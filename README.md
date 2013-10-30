@@ -1,2 +1,4 @@
-vim-links
+Games
 =========
+
+<http://vim-adventures.com/>
